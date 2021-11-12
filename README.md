@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there! :ghost:
 
-<!--
-**giuliamesc/giuliamesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Compuational Science and Engineering student at Politecnico di Milano and EPFL Lausanne.
 
-Here are some ideas to get you started:
+My studies are focused on Numerical Analysis and Partial Differential Equations, but sometimes life is hard and I have to get out of my fantasy world made of 💞 Functional Analysis proofs 💞 and do some Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:mortar_board: **Education:**
+ - Master of Science in Computational Science and Engineering at `Politecnico di Milano` and `EPFL`
+ - Alta Scuola Politecnica (Politecnico di Milano Honor Program)
+ - Bachelor of Science in Mathematical Engineering at `Politecnico di Milano`
+
+:loudspeaker: **Contacts:**
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giuliamescolini/)
+- `giulia.mescolini99@gmail.com`
+ 
+🎀 Pronouns: She/Her
