@@ -2,7 +2,7 @@
 
 I am a Compuational Science and Engineering student at Politecnico di Milano and EPFL Lausanne.
 
-My studies are focused on Numerical Analysis and Partial Differential Equations, but sometimes life is hard and I have to get out of my fantasy world made of 💞 Functional Analysis proofs 💞 and do some Machine Learning.
+My studies are focused on Numerical Analysis and Partial Differential Equations (mainly applied to Fluid-Dynamics problems), but sometimes life is hard and I have to get out of my fantasy world made of 💞 Functional Analysis proofs 💞 and do some Machine Learning.
 
 :mortar_board: **Education:**
  - Master of Science in Computational Science and Engineering at `Politecnico di Milano` and `EPFL`
