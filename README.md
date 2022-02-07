@@ -1,6 +1,6 @@
 ## Hi there! :ghost:
 
-I am a Compuational Science and Engineering student at Politecnico di Milano and EPFL Lausanne.
+I am a Computational Science and Engineering student at Politecnico di Milano and EPFL Lausanne.
 
 My studies are focused on Numerical Analysis and Partial Differential Equations (mainly applied to Fluid-Dynamics problems), but sometimes life is hard and I have to get out of my fantasy world made of 💞 Functional Analysis proofs 💞 and do some Machine Learning.
 
