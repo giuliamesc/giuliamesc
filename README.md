@@ -14,4 +14,7 @@ I am open to challenges, and I wish to make a difference with my algorithms! :ro
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giuliamescolini/)
 - `giulia.mescolini99@gmail.com`
  
-🎀 Pronouns: She/Her
+🎀 **About me:**
+- My color: Pink :sparkling_heart:
+- My book: _La casa de los espíritus_, I. Allende
+- My song: _La morte non esiste più_, Baustelle
