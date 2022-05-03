@@ -18,3 +18,4 @@ I am open to challenges, and I wish to make a difference with my algorithms! :ro
 - My color: Pink :sparkling_heart:
 - My book: _La casa de los espíritus_, I. Allende
 - My song: _La morte non esiste più_, Baustelle
+- My movie: _The great beauty_, P. Sorrentino
