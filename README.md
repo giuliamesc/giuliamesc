@@ -2,8 +2,7 @@
 
 I am a Computational Science and Engineering student at Politecnico di Milano and EPFL Lausanne.
 
-In my study path, I am exploring several areas, ranging from Partial Differential Equations and Numerical Analysis to Machine Learning. 
-I am open to challenges, and I wish to make a difference with my algorithms! :rocket:
+My studies are focused on Numerical Analysis and Partial Differential Equations (mainly applied to Fluid-Dynamics problems), but sometimes life is hard and I have to get out of my fantasy world made of 💞 Functional Analysis proofs 💞 and do some Machine Learning.
 
 :mortar_board: **Education:**
  - Master of Science in Computational Science and Engineering at `Politecnico di Milano` and `EPFL`
@@ -15,7 +14,7 @@ I am open to challenges, and I wish to make a difference with my algorithms! :ro
 - `giulia.mescolini99@gmail.com`
  
 🎀 **About me:**
-- My color: Pink :sparkling_heart:
+- My color: Pink
 - My book: _La casa de los espíritus_, I. Allende
 - My song: _La morte non esiste più_, Baustelle
 - My movie: _The Great Beauty_, P. Sorrentino
