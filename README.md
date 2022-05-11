@@ -14,8 +14,7 @@ My studies are focused on Numerical Analysis and Partial Differential Equations 
 - `giulia.mescolini99@gmail.com`
  
 🎀 **About me:**
-- My color: Pink
-- My book: _La casa de los espíritus_, I. Allende
-- My song: _La morte non esiste più_, Baustelle
-- My movie: _The Great Beauty_, P. Sorrentino
-- My painting: _The School of Athens_, Raffaello
+- One color: Pink
+- One book: _La casa de los espíritus_, I. Allende
+- One movie: _The Great Beauty_, P. Sorrentino
+- One painting: _The School of Athens_, Raffaello
